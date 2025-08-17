@@ -14,8 +14,6 @@ It allows users to log in, view rules, take a quiz, and see their score at the e
 
 ---
 
----
-
 ## 📂 Project Structure
 Quiz Application/  
 │── Source Packages/  
